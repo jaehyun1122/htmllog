@@ -17,8 +17,8 @@ body {
     font-family: 'Dongle', sans-serif;
 }
 #game-container {
-    width: 350px;
-    height: 350px;
+    width: 570px;
+    height: 570px;
     background-image: url("https://github.com/mangotree1234/png_openlab/blob/main/background.png?raw=true");
     background-size: cover;
     background-position: center;
